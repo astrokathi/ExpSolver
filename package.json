@@ -1,0 +1,20 @@
+{
+  "name": "expsolver",
+  "version": "1.0.0",
+  "description": "A production-grade, highly resilient calculation engine using LangChain, LangGraph, and FastMCP with full Langfuse observability.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "puppeteer": "^25.1.0"
+  }
+}
