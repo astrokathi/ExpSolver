@@ -1,1 +1,28 @@
 theme: jekyll-theme-architect
+sidebar_links:
+  - title: Home
+    url: /
+  - title: Architecture
+    url: /architecture.html
+  - title: Agents
+    url: /agents.html
+  - title: Setup & Running
+    url: /setup.html
+  - title: Developer Docs
+    url: /developer_docs.html
+  - title: Execution Steps
+    url: /execution_steps.html
+  - title: Fail Overs
+    url: /fail_overs.html
+  - title: Graph Flow
+    url: /graph.html
+  - title: Handoffs
+    url: /handoffs.html
+  - title: MCP Protocol
+    url: /mcp.html
+  - title: State Management
+    url: /state_management.html
+  - title: End-to-End
+    url: /end2end.html
+  - title: Chainlit UI
+    url: /chainlit.html
